@@ -2,12 +2,19 @@ body{
    background-color:  #568EA6;;
 }
 
+
 h1{
     text-align: center;
     margin: 20px auto;
     color: #f1d1b5;
     text-shadow: 3px 3px 1px black;
     font-size: 50px;
+}
+
+.one{
+    background-color: #305f72;
+    margin: 50px, 50px;
+    padding: 5px 2px;
 }
 
 h3{
@@ -32,7 +39,14 @@ h3{
     font-size: 20px;
 }
 
+.text{
+    text-align: center;
+    color: #f0b7a4;
+    font-size: 20px;
+}
+
 img {
     display: block;
     margin: 0 auto;
+    width: 500px;
   }
