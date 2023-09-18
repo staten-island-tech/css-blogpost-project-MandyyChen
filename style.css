@@ -1,11 +1,12 @@
 body{
    background-color:  #568EA6;;
+   margin: 80px;
 }
 
 
 h1{
     text-align: center;
-    margin: 20px auto;
+    margin: 10px auto;
     color: #f1d1b5;
     text-shadow: 3px 3px 1px black;
     font-size: 50px;
@@ -13,8 +14,9 @@ h1{
 
 .one{
     background-color: #305f72;
-    margin: 50px, 50px;
-    padding: 5px 2px;
+    border: 5px solid #f0b7a4;
+    margin: 40px;
+    padding: 7px 5px;
 }
 
 h3{
@@ -27,10 +29,15 @@ h3{
 
 .head{
     text-align: center;
-    margin: 20px auto;
+    margin: 25px auto;
     color: #f18C8E;
     font-size: 25px;
     font-style: normal;
+}
+
+#blurb{
+    font-family: 'Italianno', cursive;
+    font-size: 40px
 }
 
 .rate{
@@ -43,6 +50,7 @@ h3{
     text-align: center;
     color: #f0b7a4;
     font-size: 20px;
+    margin-bottom: 40px;
 }
 
 img {
